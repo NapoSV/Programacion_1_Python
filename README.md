@@ -1,0 +1,2 @@
+# Programaci-n-1---UEES
+Repositorio que contiene los ejercicios prácticos y actividades desarrolladas en la materia Programación I de la Universidad Evangélica de El Salvador (UEES). Incluye prácticas, ejemplos y resoluciones orientadas al aprendizaje de los fundamentos de programación.
