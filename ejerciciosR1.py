@@ -1,4 +1,4 @@
-# Guía de ejercicios de declaraciones Python Registro 1
+# Guía de ejercicios de declaraciones de Variables en Python Registro 1
 
 # Ejercicio 1
 # Declara una variable con un valor entero.
@@ -81,4 +81,5 @@ variable_bool2 = False
 variable_float2 = 3.1416
 
 # Verifica sus tipos con type().
+
 print(type(variable_bool2)), print(type(variable_float2))
